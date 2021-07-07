@@ -1,7 +1,11 @@
- Instapaper: Export
+ # Books
+ 
+ 1. [SuperFreakonomics: Global Cooling, Patriotic Prostitutes And Why Suicide Bombers Should Buy Life Insurance by Steven D. Levitt | Goodreads](https://www.goodreads.com/book/show/6402364-superfreakonomics)
+ 2. [The Psychology of Money by Morgan Housel | Goodreads](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
+ 3. [Inadequate Equilibria: Where and How Civilizations Get Stuck by Eliezer Yudkowsky | Goodreads](https://www.goodreads.com/book/show/36515223-inadequate-equilibria)
+ 
 
-Starred
-=======
+# Articles
 
 1.  [Idea: Give the Nobel peace prize to institution designers - LessWrong](https://www.lesswrong.com/posts/sAGj5AmdjMkxm2St6/idea-give-the-nobel-peace-prize-to-institution-designers)
 2.  [Beautiful Probability - LessWrong](https://www.lesswrong.com/posts/bkSkRwo9SRYxJMiSY/beautiful-probability)
